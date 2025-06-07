@@ -14,7 +14,7 @@ The Machine Learning projects include :
 - Classification of five cancer types from gene expression data (using k-nearest neighbours (k-NN), Decisions trees, Random forest and AdaBoost).
 
 The Quantitative Finance projects include :
-- None for the moment.
+- Implementation of the Black-Scholes formula to price European call options on non-dividend-paying assets and visualisations.
 
 
 *This repository is regularly updated as I progress in my learning and projects.*
