@@ -1,10 +1,10 @@
-# European Call Option Pricing
+# European Call Option Pricing (Python : NumPy, QuantLib)
 
-In this project, i implement different methods to price a European Call Option :
+In this project, I implement different methods to price a European Call Option :
 - Black-Scholes (closed-form)
 - Binomial Tree
-- Black-Scholes (closed-form) with QuantLib
-- Binomial Tree with QuantLib
-- Monte-Carlo with QuantLib
+- Black-Scholes (closed-form) (QuantLib)
+- Binomial Tree (QuantLib)
+- Monte-Carlo simulation (QuantLib)
 
-Moreover, I plot the evolution of the Price when the volatility and the time to maturity change and show the convergence of the Binomial Price to the Black-Scholes (closed-form) Price.
+I also analyze how the option price evolves with changes in volatility and time to maturity, and illustrate the convergence of the binomial method to the closed-form Black-Scholes price.
