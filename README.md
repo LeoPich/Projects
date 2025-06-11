@@ -1,6 +1,6 @@
 # Background
 
-I am currently a first-year Master's student in mathematics at ENS Rennes. I first completed two years of intensive preparatory classes (MPSI–MP*) in Lycee Carnot (Dijon), then joined ENSAE Paris, where I pursued in parallel a Bachelor's degree in Mathematics at the Magistère of Mathematics in Orsay (Paris-Saclay University) . This dual academic path enabled me to pass the second entrance exam for the Écoles Normales Supérieures and join ENS Rennes.
+I am currently a first-year Master's student in mathematics at ENS Rennes. I first completed two years of intensive preparatory classes (MPSI–MP*) in Lycee Carnot (Dijon), then joined ENSAE Paris, where I pursued in parallel of my first year a Bachelor's degree in Mathematics at the Magistère of Mathematics in Orsay (Paris-Saclay University) . This dual academic path enabled me to pass the second entrance exam for the Écoles Normales Supérieures (Rennes and Paris-Saclay) and join ENS Rennes.
 
 For the past five years, I have known that I wanted to specialize in mathematics applied to finance, data science, and artificial intelligence. I have therefore built this customized academic path to reach those goals.
 
