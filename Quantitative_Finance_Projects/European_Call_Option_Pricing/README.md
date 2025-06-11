@@ -1,10 +1,10 @@
 # European Call Option Pricing
 
-Implementation of differents methods to price a European Call Option :
+In this project, i implement different methods to price a European Call Option :
 - Black-Scholes (closed-form)
 - Binomial Tree
-- Black-Scholes (closed-form) using QuantLib
-- Monte-Carlo using QuantLib
-A simple implementation of the Black-Scholes (closed-form) formula to price European call options on non-dividend-paying assets. 
-This project shows how option prices change with volatility and time to maturity.
-Then there is an implementation of the Binomial Tree method 
+- Black-Scholes (closed-form) with QuantLib
+- Binomial Tree with QuantLib
+- Monte-Carlo with QuantLib
+
+Moreover, I plot the evolution of the Price when the volatility and the time to maturity change and show the convergence of the Binomial Price to the Black-Scholes (closed-form) Price.
