@@ -6,15 +6,15 @@ For the past five years, I have known that I wanted to specialize in mathematics
 
 This repository gathers a collection of projects I have completed during my studies or in my personal time, covering both machine learning and quantitative finance topics.
 
-# Personal Projects: Machine Learning & Quantitative Finance
-
-The Machine Learning projects include :  
-- Classification of users based on keystroke dynamics (using Principal Component Analysis (PCA), Clustering (Hierarchical Clustering and K-Means Algorithm), Discriminant Analysis and Cross-Validation).
-- Prediction of authors’ birth years from word occurrence patterns in literary texts (using Ordinary Least Squares (OLS), LASSO and Ridge regression).
-- Classification of five cancer types from gene expression data (using k-nearest neighbours (k-NN), Decisions trees, Random forest and AdaBoost).
+# Personal Projects: Quantitative Finance & Machine Learning 
 
 The Quantitative Finance projects include :
-- Implementation of the Black-Scholes formula to price European call options on non-dividend-paying assets and visualisations.
+- Pricing of European Call Options using Black-Scholes (closed-form), Binomial Trees (CRR), and Monte Carlo simulations — implemented from scratch and using QuantLib.
+
+The Machine Learning projects include :  
+- **Keystroke dynamics classification** using PCA, clustering, discriminant analysis, and cross-validation.
+- **Birth year prediction** of authors based on word occurrence patterns using OLS, Ridge, and Lasso.
+- **Cancer classification** from gene expression data using k-NN, decision trees, random forests, and AdaBoost.
 
 
 *This repository is regularly updated as I progress in my learning and projects.*
