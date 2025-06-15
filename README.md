@@ -9,7 +9,7 @@ This repository gathers a collection of projects I have completed during my stud
 # Personal Projects: Quantitative Finance & Machine Learning 
 
 The Quantitative Finance projects include :
-- Pricing of European Call Options using Black-Scholes (closed-form), Binomial Trees (CRR), and Monte Carlo simulations — implemented from scratch and using QuantLib.
+- Pricing of European and American Call-Put Options using Black-Scholes (closed-form), Binomial Trees (CRR), and Monte Carlo simulations — implemented from scratch and using QuantLib.
 
 The Machine Learning projects include :  
 - **Keystroke dynamics classification** using PCA, clustering, discriminant analysis, and cross-validation.
