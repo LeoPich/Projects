@@ -1,6 +1,6 @@
 # Background
 
-I am currently a first-year Master's student in mathematics at ENS Rennes. I first completed two years of intensive preparatory classes (MPSI–MP*) in Lycee Carnot (Dijon), then joined ENSAE Paris, where I pursued in parallel of my first year a Bachelor's degree in Mathematics at the Magistère of Mathematics in Orsay (Paris-Saclay University) . This dual academic path enabled me to pass the second entrance exam for the Écoles Normales Supérieures (Rennes and Paris-Saclay) and join ENS Rennes.
+I am currently a second-year Master's student in Probabilities and Finance at Ecole Polytechnique-Sorbonne University. I first completed two years of intensive preparatory classes (MPSI–MP*) in Lycee Carnot (Dijon), then joined ENSAE Paris, where I pursued in parallel of my first year a Bachelor's degree in Mathematics at the Magistère of Mathematics in Orsay (Paris-Saclay University) . This dual academic path enabled me to pass the second entrance exam for the Écoles Normales Supérieures (Rennes and Paris-Saclay) and join ENS Rennes.
 
 For the past five years, I have known that I wanted to specialize in mathematics applied to finance, data science, and artificial intelligence. I have therefore built this customized academic path to reach those goals.
 
@@ -9,7 +9,9 @@ This repository gathers a collection of projects I have completed during my stud
 # Personal Projects: Quantitative Finance & Machine Learning 
 
 The Quantitative Finance projects include :
-- Pricing of European and American Call-Put Options using Black-Scholes (closed-form), Binomial Trees (CRR), and Monte Carlo simulations — implemented from scratch and using QuantLib.
+- **Variance Reduction Techniques** (Antithetic, Control Variate, Moment Matching, Stratified Sampling,
+Importance Sampling, Sobol Sequences
+- **Option Pricing** of European and American options using Black-Scholes (closed-form), Binomial Trees (CRR), and Monte Carlo simulations — implemented from scratch and using QuantLib.
 
 The Machine Learning projects include :  
 - **Keystroke dynamics classification** using PCA, clustering, discriminant analysis, and cross-validation.
